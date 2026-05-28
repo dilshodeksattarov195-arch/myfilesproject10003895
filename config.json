@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenvave",
+        "uuid": 30120035,
+        "checksum": "pkj5to"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
